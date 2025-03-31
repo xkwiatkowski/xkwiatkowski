@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @xkwiatkowski
 - 👀 I’m interested in: Programming & Cybersecurity
-- 🧑‍💻 I’m currently learning: Python & C++
+- 🧑‍💻 I’m currently learning: Python & C++ & Java
 - 📫 How to reach me: maksskwiatkowskii@gmail.com
